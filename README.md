@@ -1,0 +1,2 @@
+# MSSDKResource
+MSSDK Resources.
