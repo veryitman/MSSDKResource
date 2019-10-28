@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['path',['path',['../classi_dreamsky_1_1_m_s_l_d_1_1_share_1_1_m_s_l_d_mini_program.html#af309d706ea2506995ac2b7d46cb8f934',1,'iDreamsky::MSLD::Share::MSLDMiniProgram']]],
+  ['pay',['Pay',['../classi_dreamsky_1_1_m_s_l_d_1_1channel_1_1_m_s_l_d_channel_manager.html#a3b67fe5c7234ed5c7252ce7681878494',1,'iDreamsky::MSLD::channel::MSLDChannelManager']]],
+  ['paycreateorderfailed',['PayCreateOrderFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0ad26e4bdd96f68ac3bb12ebc488b7124f',1,'iDreamsky::MSLD']]],
+  ['payfrequencytoofast',['PayFrequencyTooFast',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a3a398456b64e6a28e8e8c6987b87b920',1,'iDreamsky::MSLD']]],
+  ['payiapcancelpayment',['PayIAPCancelPayment',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a37a9937b85fb4d59f38f284aff003b91',1,'iDreamsky::MSLD']]],
+  ['payiapfailed',['PayIAPFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a79e23c73688530b266773886eda8c71e',1,'iDreamsky::MSLD']]],
+  ['payiapgetiteminfofailed',['PayIAPGetItemInfoFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0af8f980ed6e43e32c56c9ac729ae99ef9',1,'iDreamsky::MSLD']]],
+  ['payiapinvalidproductid',['PayIAPInvalidProductID',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a5ab8cdd3c4ac517f6601eb96e6212c91',1,'iDreamsky::MSLD']]],
+  ['payiapverifyfailed',['PayIAPVerifyFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a9442238741267bb7a8563fda0c229a2f',1,'iDreamsky::MSLD']]],
+  ['payqueryproductfailed',['PayQueryProductFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a291edd2ff9d01c4d7032a7a494fceb90',1,'iDreamsky::MSLD']]],
+  ['payrestoretransactionsfailed',['PayRestoreTransactionsFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0af7f18fc65d1cddc9d7a2e801d4ee5ed8',1,'iDreamsky::MSLD']]],
+  ['paysearchsubscriptionsfailed',['PaySearchSubscriptionsFailed',['../namespacei_dreamsky_1_1_m_s_l_d.html#ad81bd5b1ece167a52358a936dacb6cf0a4ab562a2554636117cda10abc9799133',1,'iDreamsky::MSLD']]],
+  ['playerid',['playerId',['../classi_dreamsky_1_1_m_s_l_d_1_1_feedback_1_1_m_s_l_d_feedback_manager_1_1_extra_info.html#a2df221c50e85eb6c248269598b38405f',1,'iDreamsky::MSLD::Feedback::MSLDFeedbackManager::ExtraInfo']]],
+  ['preview',['Preview',['../namespacei_dreamsky_1_1_m_s_l_d_1_1_share.html#aba3f803d414eff23558015205f5f90c8a31fde7b05ac8952dacf4af8a704074ec',1,'iDreamsky::MSLD::Share']]],
+  ['privacydirect',['PrivacyDirect',['../classi_dreamsky_1_1_m_s_l_d_1_1_account_1_1_m_s_l_d_account_manager.html#a6b35a3003bc805092f107357e0100cba',1,'iDreamsky::MSLD::Account::MSLDAccountManager']]],
+  ['purchaseproduct',['PurchaseProduct',['../classi_dreamsky_1_1_m_s_l_d_1_1_payment_1_1_m_s_l_d_payment_manager.html#ab23035fbed2892d855572016d67bb43a',1,'iDreamsky::MSLD::Payment::MSLDPaymentManager']]]
+];
